@@ -5,7 +5,7 @@
 </p>
 <hr/>
 
-Setup:
+## Setup
 create a conda virtual env
 `conda create -n ENV_NAME python=3.10`, then
 
@@ -21,8 +21,9 @@ python dat_utils.py ENCODING_DAT_PATH
 NAMES_DAT_PATH
 
 Example: python dat_utils.py /Users/gustavoabell/Desktop/hashdb-dat/face_descriptors_jittered.dat /Users/gustavoabell/Desktop/hashdb-dat/face_names_jittered.dat
+
+Remember Install cmake.
 ```
-Remember install cmake.
 
 A json file named `data.json` will be written in the format:
 
