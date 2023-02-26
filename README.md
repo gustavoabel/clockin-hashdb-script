@@ -5,7 +5,7 @@
 </p>
 <hr/>
 
-## Setup
+## ⚙️ Setup
 create a conda virtual env
 `conda create -n ENV_NAME python=3.10`, then
 
@@ -44,3 +44,29 @@ A visual user interface can be used instead:
 run `python gui.py` . The following screen will appear:
 
 ![visual user interface](image.png)
+
+## 🤝 Contributors
+
+Made with ❤️ by:
+<table>
+<tbody>
+  <tr>
+  <td align="center">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/69880411/221444074-5d025253-560f-4e29-8438-5a920eb3cb17.jpeg" width="100px;" alt="Foto do Leo no GitHub"/><br>
+        <sub>
+          <b>Léo Dias</b>
+        </sub>
+      </a>
+    </td>
+  <td align="center">
+      <a href="#">
+        <img src="https://github.com/gustavoabel.png" width="100px;" alt="Foto do Gustavo Abel no GitHub"/><br>
+        <sub>
+          <b>Gustavo Abel</b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+  </tbody>
+</table>
