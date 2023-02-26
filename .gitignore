@@ -1,0 +1,8 @@
+build
+dat_utils.egg-info
+dat-files
+data.json
+data2.json
+groupedsectioncode_SP_face_encodings.dat
+groupedsectioncode_SP_face_names.dat
+.DS_Store
