@@ -3,16 +3,26 @@
 <p align="center">
   <img src="https://github.com/totvslabs/sql-pipelines-clockin/blob/master/.github/img/clockin.png" alt="Clockin" title="Clockin">
 </p>
-create a conda virtual env
+<hr/>
 
+Setup:
+create a conda virtual env
 `conda create -n ENV_NAME python=3.10`, then
 
 ```
 conda activate ENV_NAME
+
 conda install pybind11 -c conda-forge -y 
-pip install -e . 
-python dat_utils.py ENCODING_DAT_PATH NAMES_DAT_PATH
+
+in clockin-dat-utils pip install -e . 
+
+python dat_utils.py ENCODING_DAT_PATH 
+
+NAMES_DAT_PATH
+
+Example: python dat_utils.py /Users/gustavoabell/Desktop/hashdb-dat/face_descriptors_jittered.dat /Users/gustavoabell/Desktop/hashdb-dat/face_names_jittered.dat
 ```
+Remember install cmake.
 
 A json file named `data.json` will be written in the format:
 
