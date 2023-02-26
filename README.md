@@ -1,4 +1,10 @@
+<h1 align="center">Script for HashDB
+</h1>
+<p align="center">
+  <img src="https://github.com/totvslabs/sql-pipelines-clockin/blob/master/.github/img/clockin.png" alt="Clockin" title="Clockin">
+</p>
 create a conda virtual env
+
 `conda create -n ENV_NAME python=3.10`, then
 
 ```
