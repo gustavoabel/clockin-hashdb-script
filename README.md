@@ -1,7 +1,7 @@
 <h1 align="center">Script for HashDB
 </h1>
 <p align="center">
-  <img src="https://github.com/totvslabs/sql-pipelines-clockin/blob/master/.github/img/clockin.png" alt="Clockin" title="Clockin">
+  <img src="https://user-images.githubusercontent.com/69880411/230638854-2dcd77b7-f16d-4209-b95d-291e9cd16028.png" alt="Clockin" title="Clockin">
 </p>
 <hr/>
 
