@@ -1,7 +1,7 @@
 <h1 align="center">Script for HashDB
 </h1>
 <p align="center">
-  <img src="https://github.com/totvslabs/sql-pipelines-clockin/blob/master/.github/img/clockin.png" alt="Clockin" title="Clockin">
+  <img src="https://user-images.githubusercontent.com/69880411/230639068-74e054f5-2c2f-4dc2-81fb-f3e0b7f5f8e1.png" alt="Clockin" title="Clockin">
 </p>
 <p align="center">Script to compare data difference in hashdb and dat files.</p>
 
